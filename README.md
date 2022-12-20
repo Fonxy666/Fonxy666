@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### How to reach me: vposzt@gmail.com
+### I'm currently a Codecool student.
 <!--
 **Fonxy666/Fonxy666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
